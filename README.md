@@ -1,4 +1,4 @@
-[### EX8 Web Scraping On E-commerce platform using BeautifulSoup
+### EX8 Web Scraping On E-commerce platform using BeautifulSoup
 ### NAME: AGASH S
 ### REG NO: 212224040014
 ### DATE: 30-08-26
